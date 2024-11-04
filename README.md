@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on StikFlash
+- 🔭 I’m currently working on SideStore
 - 🌱 I’m currently learning SwiftUI
