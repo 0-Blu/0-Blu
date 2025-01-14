@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on StikNES
-- 🌱 I’m currently learning SwiftUI
+- 🔭 I’m currently working on a lot of stuff!
+- 🌱 I’m currently learning a lot!
