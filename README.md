@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 - 🚀 **Currently Working On:**  
-  - **[SideStore](https://github.com/0-Blu/SideStore):** SideStore is a fork of AltStore that doesn't require an AltServer.
+  - **[SideStore](https://github.com/0-Blu/SideStore):** A fork of AltStore that doesn't require an AltServer.
   - **[StikNES](#):** An iOS NES emulator built with SwiftUI.
 
 - 🌱 **Always Learning:**  
@@ -26,24 +26,27 @@
 - **Platforms:**  
   - iOS  
   - macOS  
-  - App Store  
 
 ---
 
 ## 📚 Featured Projects
-- **[SideStore](https://github.com/0-Blu/SideStore):**  SideStore is a fork of AltStore that doesn't require an AltServer..  
+- **[SideStore](https://github.com/0-Blu/SideStore):**  
+  A fork of AltStore that doesn't require an AltServer.  
 
 ---
 
-<div align="center" id="badges">
-  <img src="https://img.shields.io/badge/SwiftUI-524520?logo=swift&logoColor=white" alt="SwiftUI Badge"/>
-  <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift Badge"/>
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white" alt="App Store Badge"/>
-  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS Badge"/>
-  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" alt="iOS Badge"/>
-</div>
+## 📦 Stores & Publishing
+- 🛍️ **Where I Can Publish:**  
+  - App Store  
+  - Custom app distribution for iOS/macOS  
 
-<div align="center" id="stats" style="border: none;">
+- 💳 **Publishing Access:**  
+  With an active Apple Developer membership, I can publish apps to the App Store and leverage advanced distribution tools for seamless app delivery.  
+
+---
+
+## 📊 Stats
+<div align="center" id="stats">
   <table style="border: none;">
     <tr>
       <td style="border: none;">
@@ -55,5 +58,3 @@
     </tr>
   </table>
 </div>
-
----
