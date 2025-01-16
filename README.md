@@ -32,7 +32,7 @@
 
 ## 📚 Featured Projects
 - **[SideStore](https://github.com/0-Blu/SideStore):**  
-  A tool for simplified app sideloading.  
+  SideStore is a fork of AltStore that doesn't require an AltServer..  
 
 ---
 
