@@ -31,8 +31,7 @@
 ---
 
 ## 📚 Featured Projects
-- **[SideStore](https://github.com/0-Blu/SideStore):**  
-  SideStore is a fork of AltStore that doesn't require an AltServer..  
+- **[SideStore](https://github.com/0-Blu/SideStore):**  SideStore is a fork of AltStore that doesn't require an AltServer..  
 
 ---
 
