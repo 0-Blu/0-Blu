@@ -44,9 +44,17 @@
   <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white" alt="iOS Badge"/>
 </div>
 
-<div align="center" id="stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0-Blu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Blu&layout=compact&langs_count=8&theme=transparent"/>
+<div align="center" id="stats" style="border: none;">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0-Blu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent"/>
+      </td>
+      <td style="border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Blu&layout=compact&langs_count=8&theme=transparent"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
